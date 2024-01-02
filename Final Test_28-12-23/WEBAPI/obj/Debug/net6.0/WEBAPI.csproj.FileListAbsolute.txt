@@ -1,0 +1,596 @@
+C:\Users\TGSUser183\All Internship Data\asp.net\Final Test_28-12-23\WEBAPI\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\TGSUser183\All Internship Data\asp.net\Final Test_28-12-23\WEBAPI\bin\Debug\net6.0\appsettings.json
+C:\Users\TGSUser183\All Internship Data\asp.net\Final Test_28-12-23\WEBAPI\bin\Debug\net6.0\WEBAPI.exe
+C:\Users\TGSUser183\All Internship Data\asp.net\Final Test_28-12-23\WEBAPI\bin\Debug\net6.0\WEBAPI.deps.json
+C:\Users\TGSUser183\All Internship Data\asp.net\Final Test_28-12-23\WEBAPI\bin\Debug\net6.0\WEBAPI.runtimeconfig.json
+C:\Users\TGSUser183\All Internship Data\asp.net\Final Test_28-12-23\WEBAPI\bin\Debug\net6.0\WEBAPI.dll
+C:\Users\TGSUser183\All Internship Data\asp.net\Final Test_28-12-23\WEBAPI\bin\Debug\net6.0\WEBAPI.pdb
+C:\Users\TGSUser183\All Internship Data\asp.net\Final Test_28-12-23\WEBAPI\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\TGSUser183\All Internship Data\asp.net\Final Test_28-12-23\WEBAPI\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\TGSUser183\All Internship Data\asp.net\Final Test_28-12-23\WEBAPI\bin\Debug\net6.0\Humanizer.dll
+C:\Users\TGSUser183\All Internship Data\asp.net\Final Test_28-12-23\WEBAPI\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\TGSUser183\All Internship Data\asp.net\Final Test_28-12-23\WEBAPI\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+C:\Users\TGSUser183\All Internship Data\asp.net\Final Test_28-12-23\WEBAPI\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\TGSUser183\All Internship Data\asp.net\Final Test_28-12-23\WEBAPI\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\TGSUser183\All Internship Data\asp.net\Final Test_28-12-23\WEBAPI\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\TGSUser183\All Internship Data\asp.net\Final Test_28-12-23\WEBAPI\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\TGSUser183\All Internship Data\asp.net\Final Test_28-12-23\WEBAPI\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\TGSUser183\All Internship Data\asp.net\Final Test_28-12-23\WEBAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\TGSUser183\All Internship Data\asp.net\Final Test_28-12-23\WEBAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\TGSUser183\All Internship Data\asp.net\Final Test_28-12-23\WEBAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\TGSUser183\All Internship Data\asp.net\Final Test_28-12-23\WEBAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\TGSUser183\All Internship Data\asp.net\Final Test_28-12-23\WEBAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\TGSUser183\All Internship Data\asp.net\Final Test_28-12-23\WEBAPI\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\TGSUser183\All Internship Data\asp.net\Final Test_28-12-23\WEBAPI\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\TGSUser183\All Internship Data\asp.net\Final Test_28-12-23\WEBAPI\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\TGSUser183\All Internship Data\asp.net\Final Test_28-12-23\WEBAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\TGSUser183\All Internship Data\asp.net\Final Test_28-12-23\WEBAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\TGSUser183\All Internship Data\asp.net\Final Test_28-12-23\WEBAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\TGSUser183\All Internship Data\asp.net\Final Test_28-12-23\WEBAPI\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\TGSUser183\All Internship Data\asp.net\Final Test_28-12-23\WEBAPI\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\TGSUser183\All Internship Data\asp.net\Final Test_28-12-23\WEBAPI\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\TGSUser183\All Internship Data\asp.net\Final Test_28-12-23\WEBAPI\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\TGSUser183\All Internship Data\asp.net\Final Test_28-12-23\WEBAPI\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\TGSUser183\All Internship Data\asp.net\Final Test_28-12-23\WEBAPI\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\TGSUser183\All Internship Data\asp.net\Final Test_28-12-23\WEBAPI\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\TGSUser183\All Internship Data\asp.net\Final Test_28-12-23\WEBAPI\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\TGSUser183\All Internship Data\asp.net\Final Test_28-12-23\WEBAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\TGSUser183\All Internship Data\asp.net\Final Test_28-12-23\WEBAPI\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\TGSUser183\All Internship Data\asp.net\Final Test_28-12-23\WEBAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\TGSUser183\All Internship Data\asp.net\Final Test_28-12-23\WEBAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\TGSUser183\All Internship Data\asp.net\Final Test_28-12-23\WEBAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\TGSUser183\All Internship Data\asp.net\Final Test_28-12-23\WEBAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\TGSUser183\All Internship Data\asp.net\Final Test_28-12-23\WEBAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\TGSUser183\All Internship Data\asp.net\Final Test_28-12-23\WEBAPI\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\TGSUser183\All Internship Data\asp.net\Final Test_28-12-23\WEBAPI\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\TGSUser183\All Internship Data\asp.net\Final Test_28-12-23\WEBAPI\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\TGSUser183\All Internship Data\asp.net\Final Test_28-12-23\WEBAPI\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\TGSUser183\All Internship Data\asp.net\Final Test_28-12-23\WEBAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\TGSUser183\All Internship Data\asp.net\Final Test_28-12-23\WEBAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\TGSUser183\All Internship Data\asp.net\Final Test_28-12-23\WEBAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\TGSUser183\All Internship Data\asp.net\Final Test_28-12-23\WEBAPI\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\TGSUser183\All Internship Data\asp.net\Final Test_28-12-23\WEBAPI\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\TGSUser183\All Internship Data\asp.net\Final Test_28-12-23\WEBAPI\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\TGSUser183\All Internship Data\asp.net\Final Test_28-12-23\WEBAPI\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\TGSUser183\All Internship Data\asp.net\Final Test_28-12-23\WEBAPI\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\TGSUser183\All Internship Data\asp.net\Final Test_28-12-23\WEBAPI\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\TGSUser183\All Internship Data\asp.net\Final Test_28-12-23\WEBAPI\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\TGSUser183\All Internship Data\asp.net\Final Test_28-12-23\WEBAPI\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\TGSUser183\All Internship Data\asp.net\Final Test_28-12-23\WEBAPI\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\TGSUser183\All Internship Data\asp.net\Final Test_28-12-23\WEBAPI\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\TGSUser183\All Internship Data\asp.net\Final Test_28-12-23\WEBAPI\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\TGSUser183\All Internship Data\asp.net\Final Test_28-12-23\WEBAPI\bin\Debug\net6.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\TGSUser183\All Internship Data\asp.net\Final Test_28-12-23\WEBAPI\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\TGSUser183\All Internship Data\asp.net\Final Test_28-12-23\WEBAPI\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\TGSUser183\All Internship Data\asp.net\Final Test_28-12-23\WEBAPI\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\TGSUser183\All Internship Data\asp.net\Final Test_28-12-23\WEBAPI\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\TGSUser183\All Internship Data\asp.net\Final Test_28-12-23\WEBAPI\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\TGSUser183\All Internship Data\asp.net\Final Test_28-12-23\WEBAPI\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\TGSUser183\All Internship Data\asp.net\Final Test_28-12-23\WEBAPI\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\TGSUser183\All Internship Data\asp.net\Final Test_28-12-23\WEBAPI\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\TGSUser183\All Internship Data\asp.net\Final Test_28-12-23\WEBAPI\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\TGSUser183\All Internship Data\asp.net\Final Test_28-12-23\WEBAPI\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\TGSUser183\All Internship Data\asp.net\Final Test_28-12-23\WEBAPI\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\TGSUser183\All Internship Data\asp.net\Final Test_28-12-23\WEBAPI\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\TGSUser183\All Internship Data\asp.net\Final Test_28-12-23\WEBAPI\bin\Debug\net6.0\Domain.dll
+C:\Users\TGSUser183\All Internship Data\asp.net\Final Test_28-12-23\WEBAPI\bin\Debug\net6.0\Infrastrcture.dll
+C:\Users\TGSUser183\All Internship Data\asp.net\Final Test_28-12-23\WEBAPI\bin\Debug\net6.0\Domain.pdb
+C:\Users\TGSUser183\All Internship Data\asp.net\Final Test_28-12-23\WEBAPI\bin\Debug\net6.0\Infrastrcture.pdb
+C:\Users\TGSUser183\All Internship Data\asp.net\Final Test_28-12-23\WEBAPI\obj\Debug\net6.0\WEBAPI.csproj.AssemblyReference.cache
+C:\Users\TGSUser183\All Internship Data\asp.net\Final Test_28-12-23\WEBAPI\obj\Debug\net6.0\WEBAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TGSUser183\All Internship Data\asp.net\Final Test_28-12-23\WEBAPI\obj\Debug\net6.0\WEBAPI.AssemblyInfoInputs.cache
+C:\Users\TGSUser183\All Internship Data\asp.net\Final Test_28-12-23\WEBAPI\obj\Debug\net6.0\WEBAPI.AssemblyInfo.cs
+C:\Users\TGSUser183\All Internship Data\asp.net\Final Test_28-12-23\WEBAPI\obj\Debug\net6.0\WEBAPI.csproj.CoreCompileInputs.cache
+C:\Users\TGSUser183\All Internship Data\asp.net\Final Test_28-12-23\WEBAPI\obj\Debug\net6.0\WEBAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\TGSUser183\All Internship Data\asp.net\Final Test_28-12-23\WEBAPI\obj\Debug\net6.0\WEBAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\TGSUser183\All Internship Data\asp.net\Final Test_28-12-23\WEBAPI\obj\Debug\net6.0\staticwebassets\msbuild.WEBAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\TGSUser183\All Internship Data\asp.net\Final Test_28-12-23\WEBAPI\obj\Debug\net6.0\staticwebassets\msbuild.build.WEBAPI.props
+C:\Users\TGSUser183\All Internship Data\asp.net\Final Test_28-12-23\WEBAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.WEBAPI.props
+C:\Users\TGSUser183\All Internship Data\asp.net\Final Test_28-12-23\WEBAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.WEBAPI.props
+C:\Users\TGSUser183\All Internship Data\asp.net\Final Test_28-12-23\WEBAPI\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\TGSUser183\All Internship Data\asp.net\Final Test_28-12-23\WEBAPI\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\TGSUser183\All Internship Data\asp.net\Final Test_28-12-23\WEBAPI\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\TGSUser183\All Internship Data\asp.net\Final Test_28-12-23\WEBAPI\obj\Debug\net6.0\scopedcss\bundle\WEBAPI.styles.css
+C:\Users\TGSUser183\All Internship Data\asp.net\Final Test_28-12-23\WEBAPI\obj\Debug\net6.0\WEBAPI.csproj.CopyComplete
+C:\Users\TGSUser183\All Internship Data\asp.net\Final Test_28-12-23\WEBAPI\obj\Debug\net6.0\WEBAPI.dll
+C:\Users\TGSUser183\All Internship Data\asp.net\Final Test_28-12-23\WEBAPI\obj\Debug\net6.0\refint\WEBAPI.dll
+C:\Users\TGSUser183\All Internship Data\asp.net\Final Test_28-12-23\WEBAPI\obj\Debug\net6.0\WEBAPI.pdb
+C:\Users\TGSUser183\All Internship Data\asp.net\Final Test_28-12-23\WEBAPI\obj\Debug\net6.0\WEBAPI.genruntimeconfig.cache
+C:\Users\TGSUser183\All Internship Data\asp.net\Final Test_28-12-23\WEBAPI\obj\Debug\net6.0\ref\WEBAPI.dll
+C:\Users\pavan\Desktop\asp.net clone\Final Test_28-12-23\WEBAPI\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\pavan\Desktop\asp.net clone\Final Test_28-12-23\WEBAPI\bin\Debug\net6.0\appsettings.json
+C:\Users\pavan\Desktop\asp.net clone\Final Test_28-12-23\WEBAPI\bin\Debug\net6.0\WEBAPI.exe
+C:\Users\pavan\Desktop\asp.net clone\Final Test_28-12-23\WEBAPI\bin\Debug\net6.0\WEBAPI.deps.json
+C:\Users\pavan\Desktop\asp.net clone\Final Test_28-12-23\WEBAPI\bin\Debug\net6.0\WEBAPI.runtimeconfig.json
+C:\Users\pavan\Desktop\asp.net clone\Final Test_28-12-23\WEBAPI\bin\Debug\net6.0\WEBAPI.dll
+C:\Users\pavan\Desktop\asp.net clone\Final Test_28-12-23\WEBAPI\bin\Debug\net6.0\WEBAPI.pdb
+C:\Users\pavan\Desktop\asp.net clone\Final Test_28-12-23\WEBAPI\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\pavan\Desktop\asp.net clone\Final Test_28-12-23\WEBAPI\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\pavan\Desktop\asp.net clone\Final Test_28-12-23\WEBAPI\bin\Debug\net6.0\Humanizer.dll
+C:\Users\pavan\Desktop\asp.net clone\Final Test_28-12-23\WEBAPI\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\pavan\Desktop\asp.net clone\Final Test_28-12-23\WEBAPI\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+C:\Users\pavan\Desktop\asp.net clone\Final Test_28-12-23\WEBAPI\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\pavan\Desktop\asp.net clone\Final Test_28-12-23\WEBAPI\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\pavan\Desktop\asp.net clone\Final Test_28-12-23\WEBAPI\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\pavan\Desktop\asp.net clone\Final Test_28-12-23\WEBAPI\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\pavan\Desktop\asp.net clone\Final Test_28-12-23\WEBAPI\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\pavan\Desktop\asp.net clone\Final Test_28-12-23\WEBAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\pavan\Desktop\asp.net clone\Final Test_28-12-23\WEBAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\pavan\Desktop\asp.net clone\Final Test_28-12-23\WEBAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\pavan\Desktop\asp.net clone\Final Test_28-12-23\WEBAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\pavan\Desktop\asp.net clone\Final Test_28-12-23\WEBAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\pavan\Desktop\asp.net clone\Final Test_28-12-23\WEBAPI\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\pavan\Desktop\asp.net clone\Final Test_28-12-23\WEBAPI\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\pavan\Desktop\asp.net clone\Final Test_28-12-23\WEBAPI\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\pavan\Desktop\asp.net clone\Final Test_28-12-23\WEBAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\pavan\Desktop\asp.net clone\Final Test_28-12-23\WEBAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\pavan\Desktop\asp.net clone\Final Test_28-12-23\WEBAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\pavan\Desktop\asp.net clone\Final Test_28-12-23\WEBAPI\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\pavan\Desktop\asp.net clone\Final Test_28-12-23\WEBAPI\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\pavan\Desktop\asp.net clone\Final Test_28-12-23\WEBAPI\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\pavan\Desktop\asp.net clone\Final Test_28-12-23\WEBAPI\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\pavan\Desktop\asp.net clone\Final Test_28-12-23\WEBAPI\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\pavan\Desktop\asp.net clone\Final Test_28-12-23\WEBAPI\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\pavan\Desktop\asp.net clone\Final Test_28-12-23\WEBAPI\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\pavan\Desktop\asp.net clone\Final Test_28-12-23\WEBAPI\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\pavan\Desktop\asp.net clone\Final Test_28-12-23\WEBAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\pavan\Desktop\asp.net clone\Final Test_28-12-23\WEBAPI\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\pavan\Desktop\asp.net clone\Final Test_28-12-23\WEBAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\pavan\Desktop\asp.net clone\Final Test_28-12-23\WEBAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\pavan\Desktop\asp.net clone\Final Test_28-12-23\WEBAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\pavan\Desktop\asp.net clone\Final Test_28-12-23\WEBAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\pavan\Desktop\asp.net clone\Final Test_28-12-23\WEBAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\pavan\Desktop\asp.net clone\Final Test_28-12-23\WEBAPI\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\pavan\Desktop\asp.net clone\Final Test_28-12-23\WEBAPI\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\pavan\Desktop\asp.net clone\Final Test_28-12-23\WEBAPI\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\pavan\Desktop\asp.net clone\Final Test_28-12-23\WEBAPI\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\pavan\Desktop\asp.net clone\Final Test_28-12-23\WEBAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\pavan\Desktop\asp.net clone\Final Test_28-12-23\WEBAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\pavan\Desktop\asp.net clone\Final Test_28-12-23\WEBAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\pavan\Desktop\asp.net clone\Final Test_28-12-23\WEBAPI\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\pavan\Desktop\asp.net clone\Final Test_28-12-23\WEBAPI\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\pavan\Desktop\asp.net clone\Final Test_28-12-23\WEBAPI\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\pavan\Desktop\asp.net clone\Final Test_28-12-23\WEBAPI\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\pavan\Desktop\asp.net clone\Final Test_28-12-23\WEBAPI\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\pavan\Desktop\asp.net clone\Final Test_28-12-23\WEBAPI\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\pavan\Desktop\asp.net clone\Final Test_28-12-23\WEBAPI\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\pavan\Desktop\asp.net clone\Final Test_28-12-23\WEBAPI\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\pavan\Desktop\asp.net clone\Final Test_28-12-23\WEBAPI\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\pavan\Desktop\asp.net clone\Final Test_28-12-23\WEBAPI\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\pavan\Desktop\asp.net clone\Final Test_28-12-23\WEBAPI\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\pavan\Desktop\asp.net clone\Final Test_28-12-23\WEBAPI\bin\Debug\net6.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\pavan\Desktop\asp.net clone\Final Test_28-12-23\WEBAPI\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\pavan\Desktop\asp.net clone\Final Test_28-12-23\WEBAPI\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\pavan\Desktop\asp.net clone\Final Test_28-12-23\WEBAPI\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\pavan\Desktop\asp.net clone\Final Test_28-12-23\WEBAPI\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\pavan\Desktop\asp.net clone\Final Test_28-12-23\WEBAPI\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\pavan\Desktop\asp.net clone\Final Test_28-12-23\WEBAPI\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\pavan\Desktop\asp.net clone\Final Test_28-12-23\WEBAPI\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\pavan\Desktop\asp.net clone\Final Test_28-12-23\WEBAPI\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\pavan\Desktop\asp.net clone\Final Test_28-12-23\WEBAPI\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\pavan\Desktop\asp.net clone\Final Test_28-12-23\WEBAPI\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\pavan\Desktop\asp.net clone\Final Test_28-12-23\WEBAPI\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\pavan\Desktop\asp.net clone\Final Test_28-12-23\WEBAPI\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\pavan\Desktop\asp.net clone\Final Test_28-12-23\WEBAPI\bin\Debug\net6.0\Domain.dll
+C:\Users\pavan\Desktop\asp.net clone\Final Test_28-12-23\WEBAPI\bin\Debug\net6.0\Infrastrcture.dll
+C:\Users\pavan\Desktop\asp.net clone\Final Test_28-12-23\WEBAPI\bin\Debug\net6.0\Domain.pdb
+C:\Users\pavan\Desktop\asp.net clone\Final Test_28-12-23\WEBAPI\bin\Debug\net6.0\Infrastrcture.pdb
+C:\Users\pavan\Desktop\asp.net clone\Final Test_28-12-23\WEBAPI\obj\Debug\net6.0\WEBAPI.csproj.AssemblyReference.cache
+C:\Users\pavan\Desktop\asp.net clone\Final Test_28-12-23\WEBAPI\obj\Debug\net6.0\WEBAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pavan\Desktop\asp.net clone\Final Test_28-12-23\WEBAPI\obj\Debug\net6.0\WEBAPI.AssemblyInfoInputs.cache
+C:\Users\pavan\Desktop\asp.net clone\Final Test_28-12-23\WEBAPI\obj\Debug\net6.0\WEBAPI.AssemblyInfo.cs
+C:\Users\pavan\Desktop\asp.net clone\Final Test_28-12-23\WEBAPI\obj\Debug\net6.0\WEBAPI.csproj.CoreCompileInputs.cache
+C:\Users\pavan\Desktop\asp.net clone\Final Test_28-12-23\WEBAPI\obj\Debug\net6.0\WEBAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\pavan\Desktop\asp.net clone\Final Test_28-12-23\WEBAPI\obj\Debug\net6.0\WEBAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\pavan\Desktop\asp.net clone\Final Test_28-12-23\WEBAPI\obj\Debug\net6.0\WEBAPI.sourcelink.json
+C:\Users\pavan\Desktop\asp.net clone\Final Test_28-12-23\WEBAPI\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\pavan\Desktop\asp.net clone\Final Test_28-12-23\WEBAPI\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\pavan\Desktop\asp.net clone\Final Test_28-12-23\WEBAPI\obj\Debug\net6.0\staticwebassets\msbuild.WEBAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\pavan\Desktop\asp.net clone\Final Test_28-12-23\WEBAPI\obj\Debug\net6.0\staticwebassets\msbuild.build.WEBAPI.props
+C:\Users\pavan\Desktop\asp.net clone\Final Test_28-12-23\WEBAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.WEBAPI.props
+C:\Users\pavan\Desktop\asp.net clone\Final Test_28-12-23\WEBAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.WEBAPI.props
+C:\Users\pavan\Desktop\asp.net clone\Final Test_28-12-23\WEBAPI\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\pavan\Desktop\asp.net clone\Final Test_28-12-23\WEBAPI\obj\Debug\net6.0\scopedcss\bundle\WEBAPI.styles.css
+C:\Users\pavan\Desktop\asp.net clone\Final Test_28-12-23\WEBAPI\obj\Debug\net6.0\WEBAPI.csproj.CopyComplete
+C:\Users\pavan\Desktop\asp.net clone\Final Test_28-12-23\WEBAPI\obj\Debug\net6.0\WEBAPI.dll
+C:\Users\pavan\Desktop\asp.net clone\Final Test_28-12-23\WEBAPI\obj\Debug\net6.0\refint\WEBAPI.dll
+C:\Users\pavan\Desktop\asp.net clone\Final Test_28-12-23\WEBAPI\obj\Debug\net6.0\WEBAPI.pdb
+C:\Users\pavan\Desktop\asp.net clone\Final Test_28-12-23\WEBAPI\obj\Debug\net6.0\WEBAPI.genruntimeconfig.cache
+C:\Users\pavan\Desktop\asp.net clone\Final Test_28-12-23\WEBAPI\obj\Debug\net6.0\ref\WEBAPI.dll
+C:\Users\TGSUser183\Desktop\Final Test_28-12-23\WEBAPI\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\TGSUser183\Desktop\Final Test_28-12-23\WEBAPI\bin\Debug\net6.0\appsettings.json
+C:\Users\TGSUser183\Desktop\Final Test_28-12-23\WEBAPI\bin\Debug\net6.0\WEBAPI.exe
+C:\Users\TGSUser183\Desktop\Final Test_28-12-23\WEBAPI\bin\Debug\net6.0\WEBAPI.deps.json
+C:\Users\TGSUser183\Desktop\Final Test_28-12-23\WEBAPI\bin\Debug\net6.0\WEBAPI.runtimeconfig.json
+C:\Users\TGSUser183\Desktop\Final Test_28-12-23\WEBAPI\bin\Debug\net6.0\WEBAPI.dll
+C:\Users\TGSUser183\Desktop\Final Test_28-12-23\WEBAPI\bin\Debug\net6.0\WEBAPI.pdb
+C:\Users\TGSUser183\Desktop\Final Test_28-12-23\WEBAPI\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\TGSUser183\Desktop\Final Test_28-12-23\WEBAPI\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\TGSUser183\Desktop\Final Test_28-12-23\WEBAPI\bin\Debug\net6.0\Humanizer.dll
+C:\Users\TGSUser183\Desktop\Final Test_28-12-23\WEBAPI\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\TGSUser183\Desktop\Final Test_28-12-23\WEBAPI\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+C:\Users\TGSUser183\Desktop\Final Test_28-12-23\WEBAPI\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\TGSUser183\Desktop\Final Test_28-12-23\WEBAPI\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\TGSUser183\Desktop\Final Test_28-12-23\WEBAPI\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\TGSUser183\Desktop\Final Test_28-12-23\WEBAPI\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\TGSUser183\Desktop\Final Test_28-12-23\WEBAPI\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\TGSUser183\Desktop\Final Test_28-12-23\WEBAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\TGSUser183\Desktop\Final Test_28-12-23\WEBAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\TGSUser183\Desktop\Final Test_28-12-23\WEBAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\TGSUser183\Desktop\Final Test_28-12-23\WEBAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\TGSUser183\Desktop\Final Test_28-12-23\WEBAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\TGSUser183\Desktop\Final Test_28-12-23\WEBAPI\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\TGSUser183\Desktop\Final Test_28-12-23\WEBAPI\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\TGSUser183\Desktop\Final Test_28-12-23\WEBAPI\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\TGSUser183\Desktop\Final Test_28-12-23\WEBAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\TGSUser183\Desktop\Final Test_28-12-23\WEBAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\TGSUser183\Desktop\Final Test_28-12-23\WEBAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\TGSUser183\Desktop\Final Test_28-12-23\WEBAPI\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\TGSUser183\Desktop\Final Test_28-12-23\WEBAPI\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\TGSUser183\Desktop\Final Test_28-12-23\WEBAPI\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\TGSUser183\Desktop\Final Test_28-12-23\WEBAPI\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\TGSUser183\Desktop\Final Test_28-12-23\WEBAPI\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\TGSUser183\Desktop\Final Test_28-12-23\WEBAPI\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\TGSUser183\Desktop\Final Test_28-12-23\WEBAPI\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\TGSUser183\Desktop\Final Test_28-12-23\WEBAPI\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\TGSUser183\Desktop\Final Test_28-12-23\WEBAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\TGSUser183\Desktop\Final Test_28-12-23\WEBAPI\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\TGSUser183\Desktop\Final Test_28-12-23\WEBAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\TGSUser183\Desktop\Final Test_28-12-23\WEBAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\TGSUser183\Desktop\Final Test_28-12-23\WEBAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\TGSUser183\Desktop\Final Test_28-12-23\WEBAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\TGSUser183\Desktop\Final Test_28-12-23\WEBAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\TGSUser183\Desktop\Final Test_28-12-23\WEBAPI\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\TGSUser183\Desktop\Final Test_28-12-23\WEBAPI\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\TGSUser183\Desktop\Final Test_28-12-23\WEBAPI\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\TGSUser183\Desktop\Final Test_28-12-23\WEBAPI\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\TGSUser183\Desktop\Final Test_28-12-23\WEBAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\TGSUser183\Desktop\Final Test_28-12-23\WEBAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\TGSUser183\Desktop\Final Test_28-12-23\WEBAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\TGSUser183\Desktop\Final Test_28-12-23\WEBAPI\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\TGSUser183\Desktop\Final Test_28-12-23\WEBAPI\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\TGSUser183\Desktop\Final Test_28-12-23\WEBAPI\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\TGSUser183\Desktop\Final Test_28-12-23\WEBAPI\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\TGSUser183\Desktop\Final Test_28-12-23\WEBAPI\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\TGSUser183\Desktop\Final Test_28-12-23\WEBAPI\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\TGSUser183\Desktop\Final Test_28-12-23\WEBAPI\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\TGSUser183\Desktop\Final Test_28-12-23\WEBAPI\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\TGSUser183\Desktop\Final Test_28-12-23\WEBAPI\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\TGSUser183\Desktop\Final Test_28-12-23\WEBAPI\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\TGSUser183\Desktop\Final Test_28-12-23\WEBAPI\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\TGSUser183\Desktop\Final Test_28-12-23\WEBAPI\bin\Debug\net6.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\TGSUser183\Desktop\Final Test_28-12-23\WEBAPI\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\TGSUser183\Desktop\Final Test_28-12-23\WEBAPI\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\TGSUser183\Desktop\Final Test_28-12-23\WEBAPI\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\TGSUser183\Desktop\Final Test_28-12-23\WEBAPI\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\TGSUser183\Desktop\Final Test_28-12-23\WEBAPI\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\TGSUser183\Desktop\Final Test_28-12-23\WEBAPI\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\TGSUser183\Desktop\Final Test_28-12-23\WEBAPI\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\TGSUser183\Desktop\Final Test_28-12-23\WEBAPI\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\TGSUser183\Desktop\Final Test_28-12-23\WEBAPI\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\TGSUser183\Desktop\Final Test_28-12-23\WEBAPI\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\TGSUser183\Desktop\Final Test_28-12-23\WEBAPI\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\TGSUser183\Desktop\Final Test_28-12-23\WEBAPI\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\TGSUser183\Desktop\Final Test_28-12-23\WEBAPI\bin\Debug\net6.0\Domain.dll
+C:\Users\TGSUser183\Desktop\Final Test_28-12-23\WEBAPI\bin\Debug\net6.0\Infrastrcture.dll
+C:\Users\TGSUser183\Desktop\Final Test_28-12-23\WEBAPI\bin\Debug\net6.0\Domain.pdb
+C:\Users\TGSUser183\Desktop\Final Test_28-12-23\WEBAPI\bin\Debug\net6.0\Infrastrcture.pdb
+C:\Users\TGSUser183\Desktop\Final Test_28-12-23\WEBAPI\obj\Debug\net6.0\WEBAPI.csproj.AssemblyReference.cache
+C:\Users\TGSUser183\Desktop\Final Test_28-12-23\WEBAPI\obj\Debug\net6.0\WEBAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TGSUser183\Desktop\Final Test_28-12-23\WEBAPI\obj\Debug\net6.0\WEBAPI.AssemblyInfoInputs.cache
+C:\Users\TGSUser183\Desktop\Final Test_28-12-23\WEBAPI\obj\Debug\net6.0\WEBAPI.AssemblyInfo.cs
+C:\Users\TGSUser183\Desktop\Final Test_28-12-23\WEBAPI\obj\Debug\net6.0\WEBAPI.csproj.CoreCompileInputs.cache
+C:\Users\TGSUser183\Desktop\Final Test_28-12-23\WEBAPI\obj\Debug\net6.0\WEBAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\TGSUser183\Desktop\Final Test_28-12-23\WEBAPI\obj\Debug\net6.0\WEBAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\TGSUser183\Desktop\Final Test_28-12-23\WEBAPI\obj\Debug\net6.0\staticwebassets\msbuild.WEBAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\TGSUser183\Desktop\Final Test_28-12-23\WEBAPI\obj\Debug\net6.0\staticwebassets\msbuild.build.WEBAPI.props
+C:\Users\TGSUser183\Desktop\Final Test_28-12-23\WEBAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.WEBAPI.props
+C:\Users\TGSUser183\Desktop\Final Test_28-12-23\WEBAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.WEBAPI.props
+C:\Users\TGSUser183\Desktop\Final Test_28-12-23\WEBAPI\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\TGSUser183\Desktop\Final Test_28-12-23\WEBAPI\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\TGSUser183\Desktop\Final Test_28-12-23\WEBAPI\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\TGSUser183\Desktop\Final Test_28-12-23\WEBAPI\obj\Debug\net6.0\scopedcss\bundle\WEBAPI.styles.css
+C:\Users\TGSUser183\Desktop\Final Test_28-12-23\WEBAPI\obj\Debug\net6.0\WEBAPI.csproj.CopyComplete
+C:\Users\TGSUser183\Desktop\Final Test_28-12-23\WEBAPI\obj\Debug\net6.0\WEBAPI.dll
+C:\Users\TGSUser183\Desktop\Final Test_28-12-23\WEBAPI\obj\Debug\net6.0\refint\WEBAPI.dll
+C:\Users\TGSUser183\Desktop\Final Test_28-12-23\WEBAPI\obj\Debug\net6.0\WEBAPI.pdb
+C:\Users\TGSUser183\Desktop\Final Test_28-12-23\WEBAPI\obj\Debug\net6.0\WEBAPI.genruntimeconfig.cache
+C:\Users\TGSUser183\Desktop\Final Test_28-12-23\WEBAPI\obj\Debug\net6.0\ref\WEBAPI.dll
+C:\Users\pavan\Downloads\completed api\Final Test_28-12-23\WEBAPI\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\pavan\Downloads\completed api\Final Test_28-12-23\WEBAPI\bin\Debug\net6.0\appsettings.json
+C:\Users\pavan\Downloads\completed api\Final Test_28-12-23\WEBAPI\bin\Debug\net6.0\WEBAPI.exe
+C:\Users\pavan\Downloads\completed api\Final Test_28-12-23\WEBAPI\bin\Debug\net6.0\WEBAPI.deps.json
+C:\Users\pavan\Downloads\completed api\Final Test_28-12-23\WEBAPI\bin\Debug\net6.0\WEBAPI.runtimeconfig.json
+C:\Users\pavan\Downloads\completed api\Final Test_28-12-23\WEBAPI\bin\Debug\net6.0\WEBAPI.dll
+C:\Users\pavan\Downloads\completed api\Final Test_28-12-23\WEBAPI\bin\Debug\net6.0\WEBAPI.pdb
+C:\Users\pavan\Downloads\completed api\Final Test_28-12-23\WEBAPI\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\pavan\Downloads\completed api\Final Test_28-12-23\WEBAPI\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\pavan\Downloads\completed api\Final Test_28-12-23\WEBAPI\bin\Debug\net6.0\Humanizer.dll
+C:\Users\pavan\Downloads\completed api\Final Test_28-12-23\WEBAPI\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\pavan\Downloads\completed api\Final Test_28-12-23\WEBAPI\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+C:\Users\pavan\Downloads\completed api\Final Test_28-12-23\WEBAPI\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\pavan\Downloads\completed api\Final Test_28-12-23\WEBAPI\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\pavan\Downloads\completed api\Final Test_28-12-23\WEBAPI\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\pavan\Downloads\completed api\Final Test_28-12-23\WEBAPI\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\pavan\Downloads\completed api\Final Test_28-12-23\WEBAPI\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\pavan\Downloads\completed api\Final Test_28-12-23\WEBAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\pavan\Downloads\completed api\Final Test_28-12-23\WEBAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\pavan\Downloads\completed api\Final Test_28-12-23\WEBAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\pavan\Downloads\completed api\Final Test_28-12-23\WEBAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\pavan\Downloads\completed api\Final Test_28-12-23\WEBAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\pavan\Downloads\completed api\Final Test_28-12-23\WEBAPI\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\pavan\Downloads\completed api\Final Test_28-12-23\WEBAPI\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\pavan\Downloads\completed api\Final Test_28-12-23\WEBAPI\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\pavan\Downloads\completed api\Final Test_28-12-23\WEBAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\pavan\Downloads\completed api\Final Test_28-12-23\WEBAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\pavan\Downloads\completed api\Final Test_28-12-23\WEBAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\pavan\Downloads\completed api\Final Test_28-12-23\WEBAPI\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\pavan\Downloads\completed api\Final Test_28-12-23\WEBAPI\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\pavan\Downloads\completed api\Final Test_28-12-23\WEBAPI\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\pavan\Downloads\completed api\Final Test_28-12-23\WEBAPI\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\pavan\Downloads\completed api\Final Test_28-12-23\WEBAPI\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\pavan\Downloads\completed api\Final Test_28-12-23\WEBAPI\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\pavan\Downloads\completed api\Final Test_28-12-23\WEBAPI\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\pavan\Downloads\completed api\Final Test_28-12-23\WEBAPI\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\pavan\Downloads\completed api\Final Test_28-12-23\WEBAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\pavan\Downloads\completed api\Final Test_28-12-23\WEBAPI\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\pavan\Downloads\completed api\Final Test_28-12-23\WEBAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\pavan\Downloads\completed api\Final Test_28-12-23\WEBAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\pavan\Downloads\completed api\Final Test_28-12-23\WEBAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\pavan\Downloads\completed api\Final Test_28-12-23\WEBAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\pavan\Downloads\completed api\Final Test_28-12-23\WEBAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\pavan\Downloads\completed api\Final Test_28-12-23\WEBAPI\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\pavan\Downloads\completed api\Final Test_28-12-23\WEBAPI\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\pavan\Downloads\completed api\Final Test_28-12-23\WEBAPI\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\pavan\Downloads\completed api\Final Test_28-12-23\WEBAPI\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\pavan\Downloads\completed api\Final Test_28-12-23\WEBAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\pavan\Downloads\completed api\Final Test_28-12-23\WEBAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\pavan\Downloads\completed api\Final Test_28-12-23\WEBAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\pavan\Downloads\completed api\Final Test_28-12-23\WEBAPI\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\pavan\Downloads\completed api\Final Test_28-12-23\WEBAPI\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\pavan\Downloads\completed api\Final Test_28-12-23\WEBAPI\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\pavan\Downloads\completed api\Final Test_28-12-23\WEBAPI\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\pavan\Downloads\completed api\Final Test_28-12-23\WEBAPI\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\pavan\Downloads\completed api\Final Test_28-12-23\WEBAPI\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\pavan\Downloads\completed api\Final Test_28-12-23\WEBAPI\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\pavan\Downloads\completed api\Final Test_28-12-23\WEBAPI\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\pavan\Downloads\completed api\Final Test_28-12-23\WEBAPI\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\pavan\Downloads\completed api\Final Test_28-12-23\WEBAPI\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\pavan\Downloads\completed api\Final Test_28-12-23\WEBAPI\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\pavan\Downloads\completed api\Final Test_28-12-23\WEBAPI\bin\Debug\net6.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\pavan\Downloads\completed api\Final Test_28-12-23\WEBAPI\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\pavan\Downloads\completed api\Final Test_28-12-23\WEBAPI\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\pavan\Downloads\completed api\Final Test_28-12-23\WEBAPI\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\pavan\Downloads\completed api\Final Test_28-12-23\WEBAPI\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\pavan\Downloads\completed api\Final Test_28-12-23\WEBAPI\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\pavan\Downloads\completed api\Final Test_28-12-23\WEBAPI\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\pavan\Downloads\completed api\Final Test_28-12-23\WEBAPI\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\pavan\Downloads\completed api\Final Test_28-12-23\WEBAPI\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\pavan\Downloads\completed api\Final Test_28-12-23\WEBAPI\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\pavan\Downloads\completed api\Final Test_28-12-23\WEBAPI\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\pavan\Downloads\completed api\Final Test_28-12-23\WEBAPI\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\pavan\Downloads\completed api\Final Test_28-12-23\WEBAPI\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\pavan\Downloads\completed api\Final Test_28-12-23\WEBAPI\bin\Debug\net6.0\Domain.dll
+C:\Users\pavan\Downloads\completed api\Final Test_28-12-23\WEBAPI\bin\Debug\net6.0\Infrastrcture.dll
+C:\Users\pavan\Downloads\completed api\Final Test_28-12-23\WEBAPI\bin\Debug\net6.0\Domain.pdb
+C:\Users\pavan\Downloads\completed api\Final Test_28-12-23\WEBAPI\bin\Debug\net6.0\Infrastrcture.pdb
+C:\Users\pavan\Downloads\completed api\Final Test_28-12-23\WEBAPI\obj\Debug\net6.0\WEBAPI.csproj.AssemblyReference.cache
+C:\Users\pavan\Downloads\completed api\Final Test_28-12-23\WEBAPI\obj\Debug\net6.0\WEBAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pavan\Downloads\completed api\Final Test_28-12-23\WEBAPI\obj\Debug\net6.0\WEBAPI.AssemblyInfoInputs.cache
+C:\Users\pavan\Downloads\completed api\Final Test_28-12-23\WEBAPI\obj\Debug\net6.0\WEBAPI.AssemblyInfo.cs
+C:\Users\pavan\Downloads\completed api\Final Test_28-12-23\WEBAPI\obj\Debug\net6.0\WEBAPI.csproj.CoreCompileInputs.cache
+C:\Users\pavan\Downloads\completed api\Final Test_28-12-23\WEBAPI\obj\Debug\net6.0\WEBAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\pavan\Downloads\completed api\Final Test_28-12-23\WEBAPI\obj\Debug\net6.0\WEBAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\pavan\Downloads\completed api\Final Test_28-12-23\WEBAPI\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\pavan\Downloads\completed api\Final Test_28-12-23\WEBAPI\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\pavan\Downloads\completed api\Final Test_28-12-23\WEBAPI\obj\Debug\net6.0\staticwebassets\msbuild.WEBAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\pavan\Downloads\completed api\Final Test_28-12-23\WEBAPI\obj\Debug\net6.0\staticwebassets\msbuild.build.WEBAPI.props
+C:\Users\pavan\Downloads\completed api\Final Test_28-12-23\WEBAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.WEBAPI.props
+C:\Users\pavan\Downloads\completed api\Final Test_28-12-23\WEBAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.WEBAPI.props
+C:\Users\pavan\Downloads\completed api\Final Test_28-12-23\WEBAPI\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\pavan\Downloads\completed api\Final Test_28-12-23\WEBAPI\obj\Debug\net6.0\scopedcss\bundle\WEBAPI.styles.css
+C:\Users\pavan\Downloads\completed api\Final Test_28-12-23\WEBAPI\obj\Debug\net6.0\WEBAPI.csproj.CopyComplete
+C:\Users\pavan\Downloads\completed api\Final Test_28-12-23\WEBAPI\obj\Debug\net6.0\WEBAPI.dll
+C:\Users\pavan\Downloads\completed api\Final Test_28-12-23\WEBAPI\obj\Debug\net6.0\refint\WEBAPI.dll
+C:\Users\pavan\Downloads\completed api\Final Test_28-12-23\WEBAPI\obj\Debug\net6.0\WEBAPI.pdb
+C:\Users\pavan\Downloads\completed api\Final Test_28-12-23\WEBAPI\obj\Debug\net6.0\WEBAPI.genruntimeconfig.cache
+C:\Users\pavan\Downloads\completed api\Final Test_28-12-23\WEBAPI\obj\Debug\net6.0\ref\WEBAPI.dll
+C:\Users\pavan\React Clone\React\Frontend-FinalTest28-12-23\Final Test_28-12-23\WEBAPI\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\pavan\React Clone\React\Frontend-FinalTest28-12-23\Final Test_28-12-23\WEBAPI\bin\Debug\net6.0\appsettings.json
+C:\Users\pavan\React Clone\React\Frontend-FinalTest28-12-23\Final Test_28-12-23\WEBAPI\bin\Debug\net6.0\WEBAPI.exe
+C:\Users\pavan\React Clone\React\Frontend-FinalTest28-12-23\Final Test_28-12-23\WEBAPI\bin\Debug\net6.0\WEBAPI.deps.json
+C:\Users\pavan\React Clone\React\Frontend-FinalTest28-12-23\Final Test_28-12-23\WEBAPI\bin\Debug\net6.0\WEBAPI.runtimeconfig.json
+C:\Users\pavan\React Clone\React\Frontend-FinalTest28-12-23\Final Test_28-12-23\WEBAPI\bin\Debug\net6.0\WEBAPI.dll
+C:\Users\pavan\React Clone\React\Frontend-FinalTest28-12-23\Final Test_28-12-23\WEBAPI\bin\Debug\net6.0\WEBAPI.pdb
+C:\Users\pavan\React Clone\React\Frontend-FinalTest28-12-23\Final Test_28-12-23\WEBAPI\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\pavan\React Clone\React\Frontend-FinalTest28-12-23\Final Test_28-12-23\WEBAPI\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\pavan\React Clone\React\Frontend-FinalTest28-12-23\Final Test_28-12-23\WEBAPI\bin\Debug\net6.0\Humanizer.dll
+C:\Users\pavan\React Clone\React\Frontend-FinalTest28-12-23\Final Test_28-12-23\WEBAPI\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\pavan\React Clone\React\Frontend-FinalTest28-12-23\Final Test_28-12-23\WEBAPI\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+C:\Users\pavan\React Clone\React\Frontend-FinalTest28-12-23\Final Test_28-12-23\WEBAPI\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\pavan\React Clone\React\Frontend-FinalTest28-12-23\Final Test_28-12-23\WEBAPI\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\pavan\React Clone\React\Frontend-FinalTest28-12-23\Final Test_28-12-23\WEBAPI\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\pavan\React Clone\React\Frontend-FinalTest28-12-23\Final Test_28-12-23\WEBAPI\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\pavan\React Clone\React\Frontend-FinalTest28-12-23\Final Test_28-12-23\WEBAPI\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\pavan\React Clone\React\Frontend-FinalTest28-12-23\Final Test_28-12-23\WEBAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\pavan\React Clone\React\Frontend-FinalTest28-12-23\Final Test_28-12-23\WEBAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\pavan\React Clone\React\Frontend-FinalTest28-12-23\Final Test_28-12-23\WEBAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\pavan\React Clone\React\Frontend-FinalTest28-12-23\Final Test_28-12-23\WEBAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\pavan\React Clone\React\Frontend-FinalTest28-12-23\Final Test_28-12-23\WEBAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\pavan\React Clone\React\Frontend-FinalTest28-12-23\Final Test_28-12-23\WEBAPI\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\pavan\React Clone\React\Frontend-FinalTest28-12-23\Final Test_28-12-23\WEBAPI\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\pavan\React Clone\React\Frontend-FinalTest28-12-23\Final Test_28-12-23\WEBAPI\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\pavan\React Clone\React\Frontend-FinalTest28-12-23\Final Test_28-12-23\WEBAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\pavan\React Clone\React\Frontend-FinalTest28-12-23\Final Test_28-12-23\WEBAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\pavan\React Clone\React\Frontend-FinalTest28-12-23\Final Test_28-12-23\WEBAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\pavan\React Clone\React\Frontend-FinalTest28-12-23\Final Test_28-12-23\WEBAPI\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\pavan\React Clone\React\Frontend-FinalTest28-12-23\Final Test_28-12-23\WEBAPI\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\pavan\React Clone\React\Frontend-FinalTest28-12-23\Final Test_28-12-23\WEBAPI\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\pavan\React Clone\React\Frontend-FinalTest28-12-23\Final Test_28-12-23\WEBAPI\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\pavan\React Clone\React\Frontend-FinalTest28-12-23\Final Test_28-12-23\WEBAPI\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\pavan\React Clone\React\Frontend-FinalTest28-12-23\Final Test_28-12-23\WEBAPI\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\pavan\React Clone\React\Frontend-FinalTest28-12-23\Final Test_28-12-23\WEBAPI\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\pavan\React Clone\React\Frontend-FinalTest28-12-23\Final Test_28-12-23\WEBAPI\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\pavan\React Clone\React\Frontend-FinalTest28-12-23\Final Test_28-12-23\WEBAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\pavan\React Clone\React\Frontend-FinalTest28-12-23\Final Test_28-12-23\WEBAPI\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\pavan\React Clone\React\Frontend-FinalTest28-12-23\Final Test_28-12-23\WEBAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\pavan\React Clone\React\Frontend-FinalTest28-12-23\Final Test_28-12-23\WEBAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\pavan\React Clone\React\Frontend-FinalTest28-12-23\Final Test_28-12-23\WEBAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\pavan\React Clone\React\Frontend-FinalTest28-12-23\Final Test_28-12-23\WEBAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\pavan\React Clone\React\Frontend-FinalTest28-12-23\Final Test_28-12-23\WEBAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\pavan\React Clone\React\Frontend-FinalTest28-12-23\Final Test_28-12-23\WEBAPI\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\pavan\React Clone\React\Frontend-FinalTest28-12-23\Final Test_28-12-23\WEBAPI\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\pavan\React Clone\React\Frontend-FinalTest28-12-23\Final Test_28-12-23\WEBAPI\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\pavan\React Clone\React\Frontend-FinalTest28-12-23\Final Test_28-12-23\WEBAPI\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\pavan\React Clone\React\Frontend-FinalTest28-12-23\Final Test_28-12-23\WEBAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\pavan\React Clone\React\Frontend-FinalTest28-12-23\Final Test_28-12-23\WEBAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\pavan\React Clone\React\Frontend-FinalTest28-12-23\Final Test_28-12-23\WEBAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\pavan\React Clone\React\Frontend-FinalTest28-12-23\Final Test_28-12-23\WEBAPI\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\pavan\React Clone\React\Frontend-FinalTest28-12-23\Final Test_28-12-23\WEBAPI\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\pavan\React Clone\React\Frontend-FinalTest28-12-23\Final Test_28-12-23\WEBAPI\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\pavan\React Clone\React\Frontend-FinalTest28-12-23\Final Test_28-12-23\WEBAPI\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\pavan\React Clone\React\Frontend-FinalTest28-12-23\Final Test_28-12-23\WEBAPI\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\pavan\React Clone\React\Frontend-FinalTest28-12-23\Final Test_28-12-23\WEBAPI\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\pavan\React Clone\React\Frontend-FinalTest28-12-23\Final Test_28-12-23\WEBAPI\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\pavan\React Clone\React\Frontend-FinalTest28-12-23\Final Test_28-12-23\WEBAPI\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\pavan\React Clone\React\Frontend-FinalTest28-12-23\Final Test_28-12-23\WEBAPI\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\pavan\React Clone\React\Frontend-FinalTest28-12-23\Final Test_28-12-23\WEBAPI\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\pavan\React Clone\React\Frontend-FinalTest28-12-23\Final Test_28-12-23\WEBAPI\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\pavan\React Clone\React\Frontend-FinalTest28-12-23\Final Test_28-12-23\WEBAPI\bin\Debug\net6.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\pavan\React Clone\React\Frontend-FinalTest28-12-23\Final Test_28-12-23\WEBAPI\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\pavan\React Clone\React\Frontend-FinalTest28-12-23\Final Test_28-12-23\WEBAPI\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\pavan\React Clone\React\Frontend-FinalTest28-12-23\Final Test_28-12-23\WEBAPI\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\pavan\React Clone\React\Frontend-FinalTest28-12-23\Final Test_28-12-23\WEBAPI\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\pavan\React Clone\React\Frontend-FinalTest28-12-23\Final Test_28-12-23\WEBAPI\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\pavan\React Clone\React\Frontend-FinalTest28-12-23\Final Test_28-12-23\WEBAPI\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\pavan\React Clone\React\Frontend-FinalTest28-12-23\Final Test_28-12-23\WEBAPI\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\pavan\React Clone\React\Frontend-FinalTest28-12-23\Final Test_28-12-23\WEBAPI\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\pavan\React Clone\React\Frontend-FinalTest28-12-23\Final Test_28-12-23\WEBAPI\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\pavan\React Clone\React\Frontend-FinalTest28-12-23\Final Test_28-12-23\WEBAPI\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\pavan\React Clone\React\Frontend-FinalTest28-12-23\Final Test_28-12-23\WEBAPI\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\pavan\React Clone\React\Frontend-FinalTest28-12-23\Final Test_28-12-23\WEBAPI\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\pavan\React Clone\React\Frontend-FinalTest28-12-23\Final Test_28-12-23\WEBAPI\bin\Debug\net6.0\Domain.dll
+C:\Users\pavan\React Clone\React\Frontend-FinalTest28-12-23\Final Test_28-12-23\WEBAPI\bin\Debug\net6.0\Infrastrcture.dll
+C:\Users\pavan\React Clone\React\Frontend-FinalTest28-12-23\Final Test_28-12-23\WEBAPI\bin\Debug\net6.0\Domain.pdb
+C:\Users\pavan\React Clone\React\Frontend-FinalTest28-12-23\Final Test_28-12-23\WEBAPI\bin\Debug\net6.0\Infrastrcture.pdb
+C:\Users\pavan\React Clone\React\Frontend-FinalTest28-12-23\Final Test_28-12-23\WEBAPI\obj\Debug\net6.0\WEBAPI.csproj.AssemblyReference.cache
+C:\Users\pavan\React Clone\React\Frontend-FinalTest28-12-23\Final Test_28-12-23\WEBAPI\obj\Debug\net6.0\WEBAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pavan\React Clone\React\Frontend-FinalTest28-12-23\Final Test_28-12-23\WEBAPI\obj\Debug\net6.0\WEBAPI.AssemblyInfoInputs.cache
+C:\Users\pavan\React Clone\React\Frontend-FinalTest28-12-23\Final Test_28-12-23\WEBAPI\obj\Debug\net6.0\WEBAPI.AssemblyInfo.cs
+C:\Users\pavan\React Clone\React\Frontend-FinalTest28-12-23\Final Test_28-12-23\WEBAPI\obj\Debug\net6.0\WEBAPI.csproj.CoreCompileInputs.cache
+C:\Users\pavan\React Clone\React\Frontend-FinalTest28-12-23\Final Test_28-12-23\WEBAPI\obj\Debug\net6.0\WEBAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\pavan\React Clone\React\Frontend-FinalTest28-12-23\Final Test_28-12-23\WEBAPI\obj\Debug\net6.0\WEBAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\pavan\React Clone\React\Frontend-FinalTest28-12-23\Final Test_28-12-23\WEBAPI\obj\Debug\net6.0\WEBAPI.sourcelink.json
+C:\Users\pavan\React Clone\React\Frontend-FinalTest28-12-23\Final Test_28-12-23\WEBAPI\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\pavan\React Clone\React\Frontend-FinalTest28-12-23\Final Test_28-12-23\WEBAPI\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\pavan\React Clone\React\Frontend-FinalTest28-12-23\Final Test_28-12-23\WEBAPI\obj\Debug\net6.0\staticwebassets\msbuild.WEBAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\pavan\React Clone\React\Frontend-FinalTest28-12-23\Final Test_28-12-23\WEBAPI\obj\Debug\net6.0\staticwebassets\msbuild.build.WEBAPI.props
+C:\Users\pavan\React Clone\React\Frontend-FinalTest28-12-23\Final Test_28-12-23\WEBAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.WEBAPI.props
+C:\Users\pavan\React Clone\React\Frontend-FinalTest28-12-23\Final Test_28-12-23\WEBAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.WEBAPI.props
+C:\Users\pavan\React Clone\React\Frontend-FinalTest28-12-23\Final Test_28-12-23\WEBAPI\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\pavan\React Clone\React\Frontend-FinalTest28-12-23\Final Test_28-12-23\WEBAPI\obj\Debug\net6.0\scopedcss\bundle\WEBAPI.styles.css
+C:\Users\pavan\React Clone\React\Frontend-FinalTest28-12-23\Final Test_28-12-23\WEBAPI\obj\Debug\net6.0\WEBAPI.csproj.CopyComplete
+C:\Users\pavan\React Clone\React\Frontend-FinalTest28-12-23\Final Test_28-12-23\WEBAPI\obj\Debug\net6.0\WEBAPI.dll
+C:\Users\pavan\React Clone\React\Frontend-FinalTest28-12-23\Final Test_28-12-23\WEBAPI\obj\Debug\net6.0\refint\WEBAPI.dll
+C:\Users\pavan\React Clone\React\Frontend-FinalTest28-12-23\Final Test_28-12-23\WEBAPI\obj\Debug\net6.0\WEBAPI.pdb
+C:\Users\pavan\React Clone\React\Frontend-FinalTest28-12-23\Final Test_28-12-23\WEBAPI\obj\Debug\net6.0\WEBAPI.genruntimeconfig.cache
+C:\Users\pavan\React Clone\React\Frontend-FinalTest28-12-23\Final Test_28-12-23\WEBAPI\obj\Debug\net6.0\ref\WEBAPI.dll
+D:\Frontend-FinalTest28-12-23\Final Test_28-12-23\WEBAPI\bin\Debug\net6.0\appsettings.Development.json
+D:\Frontend-FinalTest28-12-23\Final Test_28-12-23\WEBAPI\bin\Debug\net6.0\appsettings.json
+D:\Frontend-FinalTest28-12-23\Final Test_28-12-23\WEBAPI\bin\Debug\net6.0\WEBAPI.exe
+D:\Frontend-FinalTest28-12-23\Final Test_28-12-23\WEBAPI\bin\Debug\net6.0\WEBAPI.deps.json
+D:\Frontend-FinalTest28-12-23\Final Test_28-12-23\WEBAPI\bin\Debug\net6.0\WEBAPI.runtimeconfig.json
+D:\Frontend-FinalTest28-12-23\Final Test_28-12-23\WEBAPI\bin\Debug\net6.0\WEBAPI.dll
+D:\Frontend-FinalTest28-12-23\Final Test_28-12-23\WEBAPI\bin\Debug\net6.0\WEBAPI.pdb
+D:\Frontend-FinalTest28-12-23\Final Test_28-12-23\WEBAPI\bin\Debug\net6.0\Azure.Core.dll
+D:\Frontend-FinalTest28-12-23\Final Test_28-12-23\WEBAPI\bin\Debug\net6.0\Azure.Identity.dll
+D:\Frontend-FinalTest28-12-23\Final Test_28-12-23\WEBAPI\bin\Debug\net6.0\Humanizer.dll
+D:\Frontend-FinalTest28-12-23\Final Test_28-12-23\WEBAPI\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Frontend-FinalTest28-12-23\Final Test_28-12-23\WEBAPI\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+D:\Frontend-FinalTest28-12-23\Final Test_28-12-23\WEBAPI\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\Frontend-FinalTest28-12-23\Final Test_28-12-23\WEBAPI\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\Frontend-FinalTest28-12-23\Final Test_28-12-23\WEBAPI\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\Frontend-FinalTest28-12-23\Final Test_28-12-23\WEBAPI\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Frontend-FinalTest28-12-23\Final Test_28-12-23\WEBAPI\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\Frontend-FinalTest28-12-23\Final Test_28-12-23\WEBAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Frontend-FinalTest28-12-23\Final Test_28-12-23\WEBAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Frontend-FinalTest28-12-23\Final Test_28-12-23\WEBAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Frontend-FinalTest28-12-23\Final Test_28-12-23\WEBAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Frontend-FinalTest28-12-23\Final Test_28-12-23\WEBAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Frontend-FinalTest28-12-23\Final Test_28-12-23\WEBAPI\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Frontend-FinalTest28-12-23\Final Test_28-12-23\WEBAPI\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Frontend-FinalTest28-12-23\Final Test_28-12-23\WEBAPI\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Frontend-FinalTest28-12-23\Final Test_28-12-23\WEBAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Frontend-FinalTest28-12-23\Final Test_28-12-23\WEBAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Frontend-FinalTest28-12-23\Final Test_28-12-23\WEBAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+D:\Frontend-FinalTest28-12-23\Final Test_28-12-23\WEBAPI\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+D:\Frontend-FinalTest28-12-23\Final Test_28-12-23\WEBAPI\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+D:\Frontend-FinalTest28-12-23\Final Test_28-12-23\WEBAPI\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+D:\Frontend-FinalTest28-12-23\Final Test_28-12-23\WEBAPI\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Frontend-FinalTest28-12-23\Final Test_28-12-23\WEBAPI\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\Frontend-FinalTest28-12-23\Final Test_28-12-23\WEBAPI\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\Frontend-FinalTest28-12-23\Final Test_28-12-23\WEBAPI\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\Frontend-FinalTest28-12-23\Final Test_28-12-23\WEBAPI\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Frontend-FinalTest28-12-23\Final Test_28-12-23\WEBAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Frontend-FinalTest28-12-23\Final Test_28-12-23\WEBAPI\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Frontend-FinalTest28-12-23\Final Test_28-12-23\WEBAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Frontend-FinalTest28-12-23\Final Test_28-12-23\WEBAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Frontend-FinalTest28-12-23\Final Test_28-12-23\WEBAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Frontend-FinalTest28-12-23\Final Test_28-12-23\WEBAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Frontend-FinalTest28-12-23\Final Test_28-12-23\WEBAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Frontend-FinalTest28-12-23\Final Test_28-12-23\WEBAPI\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+D:\Frontend-FinalTest28-12-23\Final Test_28-12-23\WEBAPI\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Frontend-FinalTest28-12-23\Final Test_28-12-23\WEBAPI\bin\Debug\net6.0\Mono.TextTemplating.dll
+D:\Frontend-FinalTest28-12-23\Final Test_28-12-23\WEBAPI\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\Frontend-FinalTest28-12-23\Final Test_28-12-23\WEBAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Frontend-FinalTest28-12-23\Final Test_28-12-23\WEBAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Frontend-FinalTest28-12-23\Final Test_28-12-23\WEBAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Frontend-FinalTest28-12-23\Final Test_28-12-23\WEBAPI\bin\Debug\net6.0\System.CodeDom.dll
+D:\Frontend-FinalTest28-12-23\Final Test_28-12-23\WEBAPI\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Frontend-FinalTest28-12-23\Final Test_28-12-23\WEBAPI\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Frontend-FinalTest28-12-23\Final Test_28-12-23\WEBAPI\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Frontend-FinalTest28-12-23\Final Test_28-12-23\WEBAPI\bin\Debug\net6.0\System.Memory.Data.dll
+D:\Frontend-FinalTest28-12-23\Final Test_28-12-23\WEBAPI\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\Frontend-FinalTest28-12-23\Final Test_28-12-23\WEBAPI\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Frontend-FinalTest28-12-23\Final Test_28-12-23\WEBAPI\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\Frontend-FinalTest28-12-23\Final Test_28-12-23\WEBAPI\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+D:\Frontend-FinalTest28-12-23\Final Test_28-12-23\WEBAPI\bin\Debug\net6.0\System.Text.Json.dll
+D:\Frontend-FinalTest28-12-23\Final Test_28-12-23\WEBAPI\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\Frontend-FinalTest28-12-23\Final Test_28-12-23\WEBAPI\bin\Debug\net6.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Frontend-FinalTest28-12-23\Final Test_28-12-23\WEBAPI\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Frontend-FinalTest28-12-23\Final Test_28-12-23\WEBAPI\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Frontend-FinalTest28-12-23\Final Test_28-12-23\WEBAPI\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Frontend-FinalTest28-12-23\Final Test_28-12-23\WEBAPI\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Frontend-FinalTest28-12-23\Final Test_28-12-23\WEBAPI\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Frontend-FinalTest28-12-23\Final Test_28-12-23\WEBAPI\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Frontend-FinalTest28-12-23\Final Test_28-12-23\WEBAPI\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\Frontend-FinalTest28-12-23\Final Test_28-12-23\WEBAPI\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\Frontend-FinalTest28-12-23\Final Test_28-12-23\WEBAPI\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\Frontend-FinalTest28-12-23\Final Test_28-12-23\WEBAPI\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Frontend-FinalTest28-12-23\Final Test_28-12-23\WEBAPI\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\Frontend-FinalTest28-12-23\Final Test_28-12-23\WEBAPI\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\Frontend-FinalTest28-12-23\Final Test_28-12-23\WEBAPI\bin\Debug\net6.0\Domain.dll
+D:\Frontend-FinalTest28-12-23\Final Test_28-12-23\WEBAPI\bin\Debug\net6.0\Infrastrcture.dll
+D:\Frontend-FinalTest28-12-23\Final Test_28-12-23\WEBAPI\bin\Debug\net6.0\Domain.pdb
+D:\Frontend-FinalTest28-12-23\Final Test_28-12-23\WEBAPI\bin\Debug\net6.0\Infrastrcture.pdb
+D:\Frontend-FinalTest28-12-23\Final Test_28-12-23\WEBAPI\obj\Debug\net6.0\WEBAPI.csproj.AssemblyReference.cache
+D:\Frontend-FinalTest28-12-23\Final Test_28-12-23\WEBAPI\obj\Debug\net6.0\WEBAPI.GeneratedMSBuildEditorConfig.editorconfig
+D:\Frontend-FinalTest28-12-23\Final Test_28-12-23\WEBAPI\obj\Debug\net6.0\WEBAPI.AssemblyInfoInputs.cache
+D:\Frontend-FinalTest28-12-23\Final Test_28-12-23\WEBAPI\obj\Debug\net6.0\WEBAPI.AssemblyInfo.cs
+D:\Frontend-FinalTest28-12-23\Final Test_28-12-23\WEBAPI\obj\Debug\net6.0\WEBAPI.csproj.CoreCompileInputs.cache
+D:\Frontend-FinalTest28-12-23\Final Test_28-12-23\WEBAPI\obj\Debug\net6.0\WEBAPI.MvcApplicationPartsAssemblyInfo.cs
+D:\Frontend-FinalTest28-12-23\Final Test_28-12-23\WEBAPI\obj\Debug\net6.0\WEBAPI.MvcApplicationPartsAssemblyInfo.cache
+D:\Frontend-FinalTest28-12-23\Final Test_28-12-23\WEBAPI\obj\Debug\net6.0\staticwebassets\msbuild.WEBAPI.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Frontend-FinalTest28-12-23\Final Test_28-12-23\WEBAPI\obj\Debug\net6.0\staticwebassets\msbuild.build.WEBAPI.props
+D:\Frontend-FinalTest28-12-23\Final Test_28-12-23\WEBAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.WEBAPI.props
+D:\Frontend-FinalTest28-12-23\Final Test_28-12-23\WEBAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.WEBAPI.props
+D:\Frontend-FinalTest28-12-23\Final Test_28-12-23\WEBAPI\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Frontend-FinalTest28-12-23\Final Test_28-12-23\WEBAPI\obj\Debug\net6.0\staticwebassets.build.json
+D:\Frontend-FinalTest28-12-23\Final Test_28-12-23\WEBAPI\obj\Debug\net6.0\staticwebassets.development.json
+D:\Frontend-FinalTest28-12-23\Final Test_28-12-23\WEBAPI\obj\Debug\net6.0\scopedcss\bundle\WEBAPI.styles.css
+D:\Frontend-FinalTest28-12-23\Final Test_28-12-23\WEBAPI\obj\Debug\net6.0\WEBAPI.csproj.CopyComplete
+D:\Frontend-FinalTest28-12-23\Final Test_28-12-23\WEBAPI\obj\Debug\net6.0\WEBAPI.dll
+D:\Frontend-FinalTest28-12-23\Final Test_28-12-23\WEBAPI\obj\Debug\net6.0\refint\WEBAPI.dll
+D:\Frontend-FinalTest28-12-23\Final Test_28-12-23\WEBAPI\obj\Debug\net6.0\WEBAPI.pdb
+D:\Frontend-FinalTest28-12-23\Final Test_28-12-23\WEBAPI\obj\Debug\net6.0\WEBAPI.genruntimeconfig.cache
+D:\Frontend-FinalTest28-12-23\Final Test_28-12-23\WEBAPI\obj\Debug\net6.0\ref\WEBAPI.dll

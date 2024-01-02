@@ -1,0 +1,104 @@
+C:\Users\TGSUser183\All Internship Data\asp.net\Final Test_28-12-23\Infrastrcture\bin\Debug\net6.0\Infrastrcture.deps.json
+C:\Users\TGSUser183\All Internship Data\asp.net\Final Test_28-12-23\Infrastrcture\bin\Debug\net6.0\Infrastrcture.runtimeconfig.json
+C:\Users\TGSUser183\All Internship Data\asp.net\Final Test_28-12-23\Infrastrcture\bin\Debug\net6.0\Infrastrcture.dll
+C:\Users\TGSUser183\All Internship Data\asp.net\Final Test_28-12-23\Infrastrcture\bin\Debug\net6.0\Infrastrcture.pdb
+C:\Users\TGSUser183\All Internship Data\asp.net\Final Test_28-12-23\Infrastrcture\bin\Debug\net6.0\Domain.dll
+C:\Users\TGSUser183\All Internship Data\asp.net\Final Test_28-12-23\Infrastrcture\bin\Debug\net6.0\Domain.pdb
+C:\Users\TGSUser183\All Internship Data\asp.net\Final Test_28-12-23\Infrastrcture\obj\Debug\net6.0\Infrastrcture.csproj.AssemblyReference.cache
+C:\Users\TGSUser183\All Internship Data\asp.net\Final Test_28-12-23\Infrastrcture\obj\Debug\net6.0\Infrastrcture.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TGSUser183\All Internship Data\asp.net\Final Test_28-12-23\Infrastrcture\obj\Debug\net6.0\Infrastrcture.AssemblyInfoInputs.cache
+C:\Users\TGSUser183\All Internship Data\asp.net\Final Test_28-12-23\Infrastrcture\obj\Debug\net6.0\Infrastrcture.AssemblyInfo.cs
+C:\Users\TGSUser183\All Internship Data\asp.net\Final Test_28-12-23\Infrastrcture\obj\Debug\net6.0\Infrastrcture.csproj.CoreCompileInputs.cache
+C:\Users\TGSUser183\All Internship Data\asp.net\Final Test_28-12-23\Infrastrcture\obj\Debug\net6.0\Infrastrcture.csproj.CopyComplete
+C:\Users\TGSUser183\All Internship Data\asp.net\Final Test_28-12-23\Infrastrcture\obj\Debug\net6.0\Infrastrcture.dll
+C:\Users\TGSUser183\All Internship Data\asp.net\Final Test_28-12-23\Infrastrcture\obj\Debug\net6.0\refint\Infrastrcture.dll
+C:\Users\TGSUser183\All Internship Data\asp.net\Final Test_28-12-23\Infrastrcture\obj\Debug\net6.0\Infrastrcture.pdb
+C:\Users\TGSUser183\All Internship Data\asp.net\Final Test_28-12-23\Infrastrcture\obj\Debug\net6.0\Infrastrcture.genruntimeconfig.cache
+C:\Users\TGSUser183\All Internship Data\asp.net\Final Test_28-12-23\Infrastrcture\obj\Debug\net6.0\ref\Infrastrcture.dll
+C:\Users\pavan\Desktop\asp.net clone\Final Test_28-12-23\Infrastrcture\bin\Debug\net6.0\Infrastrcture.deps.json
+C:\Users\pavan\Desktop\asp.net clone\Final Test_28-12-23\Infrastrcture\bin\Debug\net6.0\Infrastrcture.runtimeconfig.json
+C:\Users\pavan\Desktop\asp.net clone\Final Test_28-12-23\Infrastrcture\bin\Debug\net6.0\Infrastrcture.dll
+C:\Users\pavan\Desktop\asp.net clone\Final Test_28-12-23\Infrastrcture\bin\Debug\net6.0\Infrastrcture.pdb
+C:\Users\pavan\Desktop\asp.net clone\Final Test_28-12-23\Infrastrcture\bin\Debug\net6.0\Domain.dll
+C:\Users\pavan\Desktop\asp.net clone\Final Test_28-12-23\Infrastrcture\bin\Debug\net6.0\Domain.pdb
+C:\Users\pavan\Desktop\asp.net clone\Final Test_28-12-23\Infrastrcture\obj\Debug\net6.0\Infrastrcture.csproj.AssemblyReference.cache
+C:\Users\pavan\Desktop\asp.net clone\Final Test_28-12-23\Infrastrcture\obj\Debug\net6.0\Infrastrcture.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pavan\Desktop\asp.net clone\Final Test_28-12-23\Infrastrcture\obj\Debug\net6.0\Infrastrcture.AssemblyInfoInputs.cache
+C:\Users\pavan\Desktop\asp.net clone\Final Test_28-12-23\Infrastrcture\obj\Debug\net6.0\Infrastrcture.AssemblyInfo.cs
+C:\Users\pavan\Desktop\asp.net clone\Final Test_28-12-23\Infrastrcture\obj\Debug\net6.0\Infrastrcture.csproj.CoreCompileInputs.cache
+C:\Users\pavan\Desktop\asp.net clone\Final Test_28-12-23\Infrastrcture\obj\Debug\net6.0\Infrastrcture.sourcelink.json
+C:\Users\pavan\Desktop\asp.net clone\Final Test_28-12-23\Infrastrcture\obj\Debug\net6.0\Infrastrcture.csproj.CopyComplete
+C:\Users\pavan\Desktop\asp.net clone\Final Test_28-12-23\Infrastrcture\obj\Debug\net6.0\Infrastrcture.dll
+C:\Users\pavan\Desktop\asp.net clone\Final Test_28-12-23\Infrastrcture\obj\Debug\net6.0\refint\Infrastrcture.dll
+C:\Users\pavan\Desktop\asp.net clone\Final Test_28-12-23\Infrastrcture\obj\Debug\net6.0\Infrastrcture.pdb
+C:\Users\pavan\Desktop\asp.net clone\Final Test_28-12-23\Infrastrcture\obj\Debug\net6.0\Infrastrcture.genruntimeconfig.cache
+C:\Users\pavan\Desktop\asp.net clone\Final Test_28-12-23\Infrastrcture\obj\Debug\net6.0\ref\Infrastrcture.dll
+C:\Users\TGSUser183\Desktop\Final Test_28-12-23\Infrastrcture\bin\Debug\net6.0\Infrastrcture.deps.json
+C:\Users\TGSUser183\Desktop\Final Test_28-12-23\Infrastrcture\bin\Debug\net6.0\Infrastrcture.runtimeconfig.json
+C:\Users\TGSUser183\Desktop\Final Test_28-12-23\Infrastrcture\bin\Debug\net6.0\Infrastrcture.dll
+C:\Users\TGSUser183\Desktop\Final Test_28-12-23\Infrastrcture\bin\Debug\net6.0\Infrastrcture.pdb
+C:\Users\TGSUser183\Desktop\Final Test_28-12-23\Infrastrcture\bin\Debug\net6.0\Domain.dll
+C:\Users\TGSUser183\Desktop\Final Test_28-12-23\Infrastrcture\bin\Debug\net6.0\Domain.pdb
+C:\Users\TGSUser183\Desktop\Final Test_28-12-23\Infrastrcture\obj\Debug\net6.0\Infrastrcture.csproj.AssemblyReference.cache
+C:\Users\TGSUser183\Desktop\Final Test_28-12-23\Infrastrcture\obj\Debug\net6.0\Infrastrcture.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TGSUser183\Desktop\Final Test_28-12-23\Infrastrcture\obj\Debug\net6.0\Infrastrcture.AssemblyInfoInputs.cache
+C:\Users\TGSUser183\Desktop\Final Test_28-12-23\Infrastrcture\obj\Debug\net6.0\Infrastrcture.AssemblyInfo.cs
+C:\Users\TGSUser183\Desktop\Final Test_28-12-23\Infrastrcture\obj\Debug\net6.0\Infrastrcture.csproj.CoreCompileInputs.cache
+C:\Users\TGSUser183\Desktop\Final Test_28-12-23\Infrastrcture\obj\Debug\net6.0\Infrastrcture.csproj.CopyComplete
+C:\Users\TGSUser183\Desktop\Final Test_28-12-23\Infrastrcture\obj\Debug\net6.0\Infrastrcture.dll
+C:\Users\TGSUser183\Desktop\Final Test_28-12-23\Infrastrcture\obj\Debug\net6.0\refint\Infrastrcture.dll
+C:\Users\TGSUser183\Desktop\Final Test_28-12-23\Infrastrcture\obj\Debug\net6.0\Infrastrcture.pdb
+C:\Users\TGSUser183\Desktop\Final Test_28-12-23\Infrastrcture\obj\Debug\net6.0\Infrastrcture.genruntimeconfig.cache
+C:\Users\TGSUser183\Desktop\Final Test_28-12-23\Infrastrcture\obj\Debug\net6.0\ref\Infrastrcture.dll
+C:\Users\pavan\Downloads\completed api\Final Test_28-12-23\Infrastrcture\bin\Debug\net6.0\Infrastrcture.deps.json
+C:\Users\pavan\Downloads\completed api\Final Test_28-12-23\Infrastrcture\bin\Debug\net6.0\Infrastrcture.runtimeconfig.json
+C:\Users\pavan\Downloads\completed api\Final Test_28-12-23\Infrastrcture\bin\Debug\net6.0\Infrastrcture.dll
+C:\Users\pavan\Downloads\completed api\Final Test_28-12-23\Infrastrcture\bin\Debug\net6.0\Infrastrcture.pdb
+C:\Users\pavan\Downloads\completed api\Final Test_28-12-23\Infrastrcture\bin\Debug\net6.0\Domain.dll
+C:\Users\pavan\Downloads\completed api\Final Test_28-12-23\Infrastrcture\bin\Debug\net6.0\Domain.pdb
+C:\Users\pavan\Downloads\completed api\Final Test_28-12-23\Infrastrcture\obj\Debug\net6.0\Infrastrcture.csproj.AssemblyReference.cache
+C:\Users\pavan\Downloads\completed api\Final Test_28-12-23\Infrastrcture\obj\Debug\net6.0\Infrastrcture.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pavan\Downloads\completed api\Final Test_28-12-23\Infrastrcture\obj\Debug\net6.0\Infrastrcture.AssemblyInfoInputs.cache
+C:\Users\pavan\Downloads\completed api\Final Test_28-12-23\Infrastrcture\obj\Debug\net6.0\Infrastrcture.AssemblyInfo.cs
+C:\Users\pavan\Downloads\completed api\Final Test_28-12-23\Infrastrcture\obj\Debug\net6.0\Infrastrcture.csproj.CoreCompileInputs.cache
+C:\Users\pavan\Downloads\completed api\Final Test_28-12-23\Infrastrcture\obj\Debug\net6.0\Infrastrcture.csproj.CopyComplete
+C:\Users\pavan\Downloads\completed api\Final Test_28-12-23\Infrastrcture\obj\Debug\net6.0\Infrastrcture.dll
+C:\Users\pavan\Downloads\completed api\Final Test_28-12-23\Infrastrcture\obj\Debug\net6.0\refint\Infrastrcture.dll
+C:\Users\pavan\Downloads\completed api\Final Test_28-12-23\Infrastrcture\obj\Debug\net6.0\Infrastrcture.pdb
+C:\Users\pavan\Downloads\completed api\Final Test_28-12-23\Infrastrcture\obj\Debug\net6.0\Infrastrcture.genruntimeconfig.cache
+C:\Users\pavan\Downloads\completed api\Final Test_28-12-23\Infrastrcture\obj\Debug\net6.0\ref\Infrastrcture.dll
+C:\Users\pavan\React Clone\React\Frontend-FinalTest28-12-23\Final Test_28-12-23\Infrastrcture\bin\Debug\net6.0\Infrastrcture.deps.json
+C:\Users\pavan\React Clone\React\Frontend-FinalTest28-12-23\Final Test_28-12-23\Infrastrcture\bin\Debug\net6.0\Infrastrcture.runtimeconfig.json
+C:\Users\pavan\React Clone\React\Frontend-FinalTest28-12-23\Final Test_28-12-23\Infrastrcture\bin\Debug\net6.0\Infrastrcture.dll
+C:\Users\pavan\React Clone\React\Frontend-FinalTest28-12-23\Final Test_28-12-23\Infrastrcture\bin\Debug\net6.0\Infrastrcture.pdb
+C:\Users\pavan\React Clone\React\Frontend-FinalTest28-12-23\Final Test_28-12-23\Infrastrcture\bin\Debug\net6.0\Domain.dll
+C:\Users\pavan\React Clone\React\Frontend-FinalTest28-12-23\Final Test_28-12-23\Infrastrcture\bin\Debug\net6.0\Domain.pdb
+C:\Users\pavan\React Clone\React\Frontend-FinalTest28-12-23\Final Test_28-12-23\Infrastrcture\obj\Debug\net6.0\Infrastrcture.csproj.AssemblyReference.cache
+C:\Users\pavan\React Clone\React\Frontend-FinalTest28-12-23\Final Test_28-12-23\Infrastrcture\obj\Debug\net6.0\Infrastrcture.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pavan\React Clone\React\Frontend-FinalTest28-12-23\Final Test_28-12-23\Infrastrcture\obj\Debug\net6.0\Infrastrcture.AssemblyInfoInputs.cache
+C:\Users\pavan\React Clone\React\Frontend-FinalTest28-12-23\Final Test_28-12-23\Infrastrcture\obj\Debug\net6.0\Infrastrcture.AssemblyInfo.cs
+C:\Users\pavan\React Clone\React\Frontend-FinalTest28-12-23\Final Test_28-12-23\Infrastrcture\obj\Debug\net6.0\Infrastrcture.csproj.CoreCompileInputs.cache
+C:\Users\pavan\React Clone\React\Frontend-FinalTest28-12-23\Final Test_28-12-23\Infrastrcture\obj\Debug\net6.0\Infrastrcture.sourcelink.json
+C:\Users\pavan\React Clone\React\Frontend-FinalTest28-12-23\Final Test_28-12-23\Infrastrcture\obj\Debug\net6.0\Infrastrcture.csproj.CopyComplete
+C:\Users\pavan\React Clone\React\Frontend-FinalTest28-12-23\Final Test_28-12-23\Infrastrcture\obj\Debug\net6.0\Infrastrcture.dll
+C:\Users\pavan\React Clone\React\Frontend-FinalTest28-12-23\Final Test_28-12-23\Infrastrcture\obj\Debug\net6.0\refint\Infrastrcture.dll
+C:\Users\pavan\React Clone\React\Frontend-FinalTest28-12-23\Final Test_28-12-23\Infrastrcture\obj\Debug\net6.0\Infrastrcture.pdb
+C:\Users\pavan\React Clone\React\Frontend-FinalTest28-12-23\Final Test_28-12-23\Infrastrcture\obj\Debug\net6.0\Infrastrcture.genruntimeconfig.cache
+C:\Users\pavan\React Clone\React\Frontend-FinalTest28-12-23\Final Test_28-12-23\Infrastrcture\obj\Debug\net6.0\ref\Infrastrcture.dll
+D:\Frontend-FinalTest28-12-23\Final Test_28-12-23\Infrastrcture\bin\Debug\net6.0\Infrastrcture.deps.json
+D:\Frontend-FinalTest28-12-23\Final Test_28-12-23\Infrastrcture\bin\Debug\net6.0\Infrastrcture.runtimeconfig.json
+D:\Frontend-FinalTest28-12-23\Final Test_28-12-23\Infrastrcture\bin\Debug\net6.0\Infrastrcture.dll
+D:\Frontend-FinalTest28-12-23\Final Test_28-12-23\Infrastrcture\bin\Debug\net6.0\Infrastrcture.pdb
+D:\Frontend-FinalTest28-12-23\Final Test_28-12-23\Infrastrcture\bin\Debug\net6.0\Domain.dll
+D:\Frontend-FinalTest28-12-23\Final Test_28-12-23\Infrastrcture\bin\Debug\net6.0\Domain.pdb
+D:\Frontend-FinalTest28-12-23\Final Test_28-12-23\Infrastrcture\obj\Debug\net6.0\Infrastrcture.csproj.AssemblyReference.cache
+D:\Frontend-FinalTest28-12-23\Final Test_28-12-23\Infrastrcture\obj\Debug\net6.0\Infrastrcture.GeneratedMSBuildEditorConfig.editorconfig
+D:\Frontend-FinalTest28-12-23\Final Test_28-12-23\Infrastrcture\obj\Debug\net6.0\Infrastrcture.AssemblyInfoInputs.cache
+D:\Frontend-FinalTest28-12-23\Final Test_28-12-23\Infrastrcture\obj\Debug\net6.0\Infrastrcture.AssemblyInfo.cs
+D:\Frontend-FinalTest28-12-23\Final Test_28-12-23\Infrastrcture\obj\Debug\net6.0\Infrastrcture.csproj.CoreCompileInputs.cache
+D:\Frontend-FinalTest28-12-23\Final Test_28-12-23\Infrastrcture\obj\Debug\net6.0\Infrastrcture.csproj.CopyComplete
+D:\Frontend-FinalTest28-12-23\Final Test_28-12-23\Infrastrcture\obj\Debug\net6.0\Infrastrcture.dll
+D:\Frontend-FinalTest28-12-23\Final Test_28-12-23\Infrastrcture\obj\Debug\net6.0\refint\Infrastrcture.dll
+D:\Frontend-FinalTest28-12-23\Final Test_28-12-23\Infrastrcture\obj\Debug\net6.0\Infrastrcture.pdb
+D:\Frontend-FinalTest28-12-23\Final Test_28-12-23\Infrastrcture\obj\Debug\net6.0\Infrastrcture.genruntimeconfig.cache
+D:\Frontend-FinalTest28-12-23\Final Test_28-12-23\Infrastrcture\obj\Debug\net6.0\ref\Infrastrcture.dll
